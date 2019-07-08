@@ -1,4 +1,4 @@
 print("Hello!")
-x=print("enter:")
+x=print("Enter a number:")
 print("sum=", x)
 
